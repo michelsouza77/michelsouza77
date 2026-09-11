@@ -10,7 +10,7 @@ needs it.
 
 ## 🎮 Projects
 
-### [DinoHunt](https://michelsouza77.github.io/Mine-defender/game2/)
+### [DinoHunt](https://michelsouza77.github.io/dinohunt-sunflowerland/game2/)
 A dinosaur-card minigame/portal for **Sunflower Land** — items you find on
 the map become real items in your SFL account. Single-file client
 (`index.html`, ~15k lines of vanilla HTML/CSS/JS, no build step) backed by
@@ -38,7 +38,7 @@ back-end, HTML/CSS/JS puro no cliente, e Kotlin quando o próprio jogo pede.
 
 ## 🎮 Projetos
 
-### [DinoHunt](https://michelsouza77.github.io/Mine-defender/game2/)
+### [DinoHunt](https://michelsouza77.github.io/dinohunt-sunflowerland/game2/)
 Um minigame/portal de cartas de dinossauro para a **Sunflower Land** — o que
 você pega no mapa vira item de verdade na sua conta do SFL. Cliente em
 arquivo único (`index.html`, ~15 mil linhas de HTML/CSS/JS puro, sem build),
