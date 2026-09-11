@@ -25,13 +25,6 @@ idle game.
 - 🔧 [#31 – fix: update base image to debian:bookworm-slim](https://github.com/Senspark/bombcrypto-server-v2/pull/31) — the `Dockerfile.arm64` build was broken for everyone (bullseye's security repo had expired), so nothing could build. Fixed the base image and picked up JDK 17 as a side effect, matching what the project's own dev guide asks for.
 
 ---
-
-## 🛠️ Currently
-
-Setting up a full local BombCrypto server (Docker + Postgres + Redis +
-Kotlin/Gradle extension) to keep contributing beyond the first fix.
-
----
 <br>
 
 # Oi, eu sou o Michel Souza 👋
@@ -58,10 +51,3 @@ Entrando no código do servidor (Kotlin/SmartFoxServer) de um jogo idle
 on-chain.
 
 - 🔧 [#31 – fix: troca a imagem base para debian:bookworm-slim](https://github.com/Senspark/bombcrypto-server-v2/pull/31) — o build do `Dockerfile.arm64` estava quebrado para todo mundo (o repositório de segurança do bullseye tinha expirado), e nada compilava. Corrigi a imagem base, o que trouxe o JDK 17 de brinde — alinhado com o que o próprio guia do projeto pede.
-
----
-
-## 🛠️ Agora
-
-Montando um servidor local completo do BombCrypto (Docker + Postgres + Redis
-+ extensão Kotlin/Gradle) para seguir contribuindo além do primeiro fix.
