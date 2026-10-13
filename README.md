@@ -100,9 +100,9 @@ Jogo de cartas colecionáveis de dinossauros publicado no portal da Sunflower La
 
 ### AllLoot <img src="https://img.shields.io/badge/no_ar-2FA36B?style=flat-square" alt="no ar">
 
-Plataforma que joga sozinha em jogos web3, com várias contas ao mesmo tempo, e mostra num painel quanto cada conta rendeu.
+Plataforma para jogos web3 que reúne, num lugar só, a vitrine de jogos NFT, a automação de contas e o painel de resultados.
 
-`TypeScript` `Node.js` `WebSocket` `web3.js` `Docker`
+`TypeScript` `Node.js` `WebSocket` `web3.js` `NFT` `Docker`
 
 ### Presença na obra
 
